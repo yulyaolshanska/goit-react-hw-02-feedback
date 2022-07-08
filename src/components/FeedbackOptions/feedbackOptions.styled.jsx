@@ -7,4 +7,10 @@ export const OptionList = styled.ul`
 
 export const Button = styled.button`
 cursor: pointer;
-display: flex;`
+
+padding: 10px;
+    border-radius: 6px;
+    border: none;
+    width: 100px;
+    text-transform: capitalize;
+    font-weight: 600;`
